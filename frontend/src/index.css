@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.neon-text {
+    text-shadow: 0 0 5px #ec4899, 0 0 10px #ec4899, 0 0 20px #ec4899;
+}
